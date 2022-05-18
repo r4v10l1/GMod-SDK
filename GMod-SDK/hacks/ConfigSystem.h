@@ -280,6 +280,7 @@ namespace ConfigSystem
 			Settings::Misc::thirdperson = j["Misc"]["thirdperson"];
 			Settings::Misc::thirdpersonKey = j["Misc"]["thirdpersonKey"];
 			Settings::Misc::thirdpersonKeyStyle = j["Misc"]["thirdpersonKeyStyle"];
+			Settings::Misc::toggleThirdperson = j["Misc"]["toggleThirdperson"];
 			Settings::Misc::thirdpersonDistance = j["Misc"]["thirdpersonDistance"];
 			Settings::Misc::removeHands = j["Misc"]["removeHands"];
 			Settings::Misc::flashlightSpam = j["Misc"]["flashlightSpam"];
